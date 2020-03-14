@@ -1,0 +1,32 @@
+.header{
+font-size: 15px;
+line-height: 1.5;
+margin:20px;	
+span{
+	display: block;
+	margin-bottom: 20px;
+}
+&:hover {
+background-color:red;
+}
+}
+
+//--переменнвя--//
+@background: #0f0f0f;
+
+//--рабочий класс который не отображается в css/
+.font(@fz:13px)	{
+	font-size: @fz;
+	text-transform:uppercase;
+	line-height: 1.5;
+}
+.header{
+	.font();
+}
+.section-header{
+	.font();
+	background-color: @background;
+}
+span{
+.font;
+}
