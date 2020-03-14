@@ -4,4 +4,4 @@
 Мои домашнии задания
 
 
-[урок 12](https://dinastask.github.io/lesson_12/ Эмоя готовая домашка")
+[урок 12](https://dinastask.github.io/lesson%2012/ "моя готовая домашка") - работа с репозиторием github
