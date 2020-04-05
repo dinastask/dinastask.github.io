@@ -557,6 +557,7 @@ section {
 }
 /*Дополнительные услуги*/
 .upsell {
+  text-align: center;
   background: #286b0a;
 }
 .upsell-blocks {
