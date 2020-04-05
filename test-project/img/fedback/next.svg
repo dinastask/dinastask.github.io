@@ -1,0 +1,11 @@
+<svg id="prev_next" data-name="prev next" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="60" viewBox="0 0 70 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #49bf15;
+      }
+    </style>
+  </defs>
+  <rect id="Прямоугольник_9_копия" data-name="Прямоугольник 9 копия" class="cls-1" width="70" height="60"/>
+  <image id="keyboard-right-arrow-button_6_" data-name="keyboard-right-arrow-button (6)" x="40" y="20" width="13" height="20" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAUCAYAAABWMrcvAAAAzUlEQVQ4jY3TsQtBURTH8ZeM8j8oZVKyGdSbbEwWWWw2vX9Ab1VGJZPBqAwysPiHDFIMWL46PIPnOMep36vXe5/u6d57AkBSAtZAMXk3I48QOPKqA1D4B235rBNQ8VAe2KXgDahZ6J0V3xV6SLJQYNNDkqkCOx6SjBXY85AkVmDkIUkbuKfgLBPYdVa+5qxVIqW92GpvqICBtREjBfStLZ8ooGsd7lwBrV/XKAssFdCwLuwm9bOcS90bDWnhmoALUP5nCCVVYO8N3zMQPADCVjWmabSPzAAAAABJRU5ErkJggg=="/>
+</svg>
